@@ -12,7 +12,6 @@ public:
             }
         }
     }
-
     vector<vector<char>> solve(vector<vector<char>>& board) {
         int n = board.size();
         int m = board[0].size();
